@@ -1,0 +1,50 @@
+!mount
+shell sudo
+shell 
+she
+shell -p mount /dev/sdb /media/USB1
+shell sudo!
+shell sudo mount /dev/sdb /media/USB1
+shell sudo mount /dev/sdb /media/USB1:
+shell sudo mount /dev/sdb1 /media/USB1:
+sudo paste
+shell sudo 
+mkdir documents
+mkdir Documents
+ls
+!ls
+shell ls
+mkdir Misc
+open_with unrar
+q
+copy
+open_with unzip
+wq
+rename config
+open_with q
+colorscheme now
+set colorscheme 
+open_with `
+as`
+mkdir Screenshots
+chmod 755
+open_with vim
+open_with
+open_with less
+open_with dox2txt
+rename Calculator.txt Calculator.java
+rename .Anime
+cut
+paste
+re
+rename Wallpaper
+rename .Anime anime
+sudo 
+! sudo rename 
+shell -p rename Anime
+shell -p rename
+shell -p rename .Anime Anime
+set colorscheme snow
+
+open_with 
+delete
